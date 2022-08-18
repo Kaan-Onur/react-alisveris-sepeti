@@ -1,29 +1,24 @@
-# Basic e-commerce cart application built with React & Redux
+React & Redux ile oluşturulmuş temel e-ticaret sepeti uygulaması
 
-This simple application prototype shows how we can use React and Redux to build a friendly user experience with instant visual updates.
+## Özellikler
+* Öğe ekle ve kaldır
+* Öğeleri kaldır
+* Öğelerin miktarını gerçek zamanlı olarak düzenleyin
+* Nakliye dahil toplamı otomatik olarak hesaplayın (seçildiyse)
 
-## Demo
-[Here](https://my-shopping-cart-leawwzhsmf.now.sh/)
 
-## Features
-* Add and remove items 
-* Remove items
-* Edit the quantity of the items in real time
-* Calculate automatically the total including the shipping (if chosen)
-
-# Getting started
-### Requirements
+### Gereksinimler
 
 * Node.js
 * NPM
 
-### Package installation
+### Paket kurulumu
 ```bash
 npm install
 ```
- ### Start the React App
- Excute the following command: 
+ ### React Uygulamasını Başlatın
+ Aşağıdaki komutu yürütün:
 ```bash
 npm start
 ```
-The application will start automatically in your browser on http://localhost:3000
+Uygulama tarayıcınızda http://localhost:3000 adresinde otomatik olarak başlar.
